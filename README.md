@@ -1,2 +1,2 @@
-# Product
-Bu sayt sof js yordamida tayorlangan va bu web saytda men sotib olish va karzina ni yasaganman
+# js_practise_starter_file
+JavaScript tutorial for begginers starter file
